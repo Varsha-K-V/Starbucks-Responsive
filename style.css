@@ -184,16 +184,11 @@ body{
     background-color:  #F2F0EB;
 }
 .para1{
-  margin-top: 80px;
-  margin-left: 200px;
-  margin-right: 200px;
+  padding: 0 80px 30px;
   text-align: center;
   font-size: 15px;
 }
 .para2{
-    margin-top: 80px;
-  margin-left: 200px;
-  margin-right: 200px;
   text-align: center;
   font-size: 15px;
 }
